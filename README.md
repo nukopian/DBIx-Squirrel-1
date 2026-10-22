@@ -12,9 +12,17 @@
     <p>• <a href="http://fast-matrix.cpantesters.org/?dist=DBIx-Squirrel%201.6.4">Current release status on the CPAN Testers Matrix</a> •</p>
 </div>
 
-## Development Halted
+## Archived
 
-I'm at a fork in the road. I want future versions of this project to move in a different direction, while using a more modern approach. To that end, <a href="https://github.com/nukopian/dbix-squirrel-v2"><tt>DBIx::Squirrel::v2</tt></a> is being forged in its own separate repository in order to preserve this one.
+This repository is archived and read-only. It holds DBIx-Squirrel 1.x,
+up to 1.6.5, the version on CPAN, with its history, issues and pull
+requests.
+
+Its successor, a rewrite in modern Perl, will be developed at
+<a href="https://github.com/nukopian/DBIx-Squirrel">github.com/nukopian/DBIx-Squirrel</a>.
+The earlier start on a version 2,
+<a href="https://github.com/nukopian/dbix-squirrel-v2"><tt>dbix-squirrel-v2</tt></a>,
+will be carried into it.
 
 ## Table of Contents
 
